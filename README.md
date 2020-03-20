@@ -1,6 +1,6 @@
 # _{Epicodus Portfolio for Celeste Field}_
 
-#### _{This is a portfolio to showcase my talent in CSS, HTML, Boostrap, and Javascript.}, {November 10, 2019}_
+#### _{This is a portfolio to showcase my talent in CSS, HTML, and Boostrap}, {March,20, 2020}_
 
 #### By _**{Celeste Field}**_
 
@@ -12,17 +12,17 @@ in web development}_
 
 ## Setup/Installation Requirements
 
-* _Clone this repository_
+* _Clone this repository https://github.com/fieldceleste/portfolio-page.git _
 * _On GitHub, navigate to the HTTP server and click on clone or download_
 * _Open the terminal_
 * _Change the current working directory to the location where you want the cloned directory to be made_
 * _Type git clone_
-*_Then press enter_
+* _Then press enter_
 
 ## Support and contact details
 
-_{For Support contact fieldceleste@gmail.com}_
-_{To view git pages visit: https://github.com/fieldceleste/portfolio-celeste.git}_
+_{For support from the author of the site contact fieldceleste@gmail.com}_
+_{To view git pages visit: https://github.com/fieldceleste/portfolio-page.git}_
 ## Technologies Used
 
 _{HTML}_
@@ -34,4 +34,4 @@ _{Javascript}_
 
 *{This software is licensed under the MIT license}*
 
-Copyright (c) 2019 **_{Celeste Field}_**
+Copyright (c) 2020 **_{Celeste Field}_**
