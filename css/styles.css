@@ -1,10 +1,39 @@
-.heading {
-    color: rgb(94, 91, 91);
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 60px;
-}
 
 .heading1 {
     color: rgb(94, 91, 91);
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.about{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+}
+p{
+    text-indent: 2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.projects ul li{
+    display:block;
+
+}
+.projects ul li a{
+   color:purple;
+   cursor: hand;
+
+}
+.click{
+   Color:rgb(196, 32, 196);
+   font-style: unset;
+}
+.panel > .panel-heading {
+    background-image: none;
+    background-color: rgb(247, 220, 220);
+    color: white;
+
 }
