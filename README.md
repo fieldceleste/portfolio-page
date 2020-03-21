@@ -6,13 +6,13 @@
 
 ## Celeste's Portfolio 
 
-_{ This is a portfolio that requires the user to read about the projects I have completed and what each one is about. The user 
+_{This is a portfolio that requires the user to read about the projects I have completed and what each one is about. The user 
 must click on the links provided to view each pages repository. There is an about me page that explains how I became interested 
 in web development}_
 
 ## Setup/Installation Requirements
 
-* _Clone this repository https://github.com/fieldceleste/portfolio-page.git _
+* _Clone this repository https://github.com/fieldceleste/portfolio-page.git_
 * _On GitHub, navigate to the HTTP server and click on clone or download_
 * _Open the terminal_
 * _Change the current working directory to the location where you want the cloned directory to be made_
