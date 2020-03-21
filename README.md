@@ -1,14 +1,14 @@
-# _{Epicodus Portfolio for Celeste Field}_
+# _Epicodus Portfolio for Celeste Field_
 
-#### _{This is a portfolio to showcase my talent in CSS, HTML, and Boostrap}, {March,20, 2020}_
+#### _This is a portfolio to showcase my talent in CSS, HTML, and Boostrap, March,20, 2020_
 
-#### By _**{Celeste Field}**_
+#### By _**Celeste Field**_
 
 ## Celeste's Portfolio 
 
-_{This is a portfolio that requires the user to read about the projects I have completed and what each one is about. The user 
+_This is a portfolio that requires the user to read about the projects I have completed and what each one is about. The user 
 must click on the links provided to view each pages repository. There is an about me page that explains how I became interested 
-in web development}_
+in web development_
 
 ## Setup/Installation Requirements
 
@@ -21,17 +21,17 @@ in web development}_
 
 ## Support and contact details
 
-_{For support from the author of the site contact fieldceleste@gmail.com}_
-_{To view git pages visit: https://github.com/fieldceleste/portfolio-page.git}_
+_For support from the author of the site contact fieldceleste@gmail.com_
+_To view git pages visit: https://github.com/fieldceleste/portfolio-page.git_
 ## Technologies Used
 
-_{HTML}_
-_{Bootstrap}_
-_{CSS}_
-_{Javascript}_
+_HTML_
+_Bootstrap_
+_CSS_
+_Javascript_
 
 ### License
 
-*{This software is licensed under the MIT license}*
+*This software is licensed under the MIT license*
 
-Copyright (c) 2020 **_{Celeste Field}_**
+Copyright (c) 2020 **_Celeste Field_**
