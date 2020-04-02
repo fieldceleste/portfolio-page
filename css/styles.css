@@ -6,7 +6,7 @@
 }
 
 p{
-    text-indent: 2em;
+    text-indent: 1em;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     
 }
@@ -14,12 +14,55 @@ li {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     
 }
+.scroll { 
+    margin:4px, 4px; 
+    padding:8px; 
+    width: 500px; 
+    height: 650px; 
+    overflow-x: hidden; 
+    overflow-x: auto; 
+    text-align:left; 
+}
+.icon1{
+    float:right;
+    margin-top:-30px;
+    height:200px;
+    width:200px;
+}
+.icon2{
+    float:right;
+    margin-top:-10px;
+    margin-left:60px;
+    height:200px;
+    width:200px;
+}
+.icon3{
+    float:right;
+    margin-top:-30px;
+    margin-left:60px;
+    height:200px;
+    width:200px;
+}
+.icon4{
+    float:right;
+    height:200px;
+    width:200px;
+}
+.icon5{
+    float:right;
+    height:200px;
+    width:200px;
+}
 
 
-.projects ul li{
+
+
+
+
+/* .projects ul li{
     display:block;
 
-}
+} */
 .projects ul li a{
    color:purple;
    cursor: hand;
