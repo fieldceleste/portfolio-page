@@ -5,15 +5,16 @@
     font-size: 20px;
 }
 
-
 p{
     text-indent: 2em;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
 }
 li {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     
 }
+
 
 .projects ul li{
     display:block;
@@ -23,11 +24,6 @@ li {
    color:purple;
    cursor: hand;
 
-}
-
-.click{
-   Color:rgb(196, 32, 196);
-   font-style: unset;
 }
 .panel > .panel-heading {
     background-image: none;
