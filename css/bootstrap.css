@@ -1,5 +1,5 @@
 /*!
- * Bootstrap v3.3.7 (http://getbootstrap.com)
+ * Bootstrap v3.4.1 (http://getbootstrap.com)
  * Copyright 2011-2016 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
@@ -1478,7 +1478,8 @@ blockquote {
   padding: 10px 20px;
   margin: 0 0 20px;
   font-size: 17.5px;
-  border-left: 5px solid #eee;
+  border-left: 5px solid rgb(212, 98, 98);
+  
 }
 blockquote p:last-child,
 blockquote ul:last-child,
@@ -1586,7 +1587,7 @@ pre code {
   padding-left: 20px;
   margin-right: auto;
   margin-left: auto;
-  background-color: teal;
+  background-color: rgb(194, 194, 194);
 }
 @media (min-width: 768px) {
   .container {
