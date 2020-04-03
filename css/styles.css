@@ -16,16 +16,18 @@ li {
 }
 .scroll { 
     margin:4px, 4px; 
-    padding:8px; 
+    padding:15px; 
     width: 500px; 
     height: 650px; 
     overflow-x: hidden; 
     overflow-x: auto; 
     text-align:left; 
+    
 }
 .icon1{
     float:right;
     margin-top:-30px;
+    margin-left:50px;
     height:200px;
     width:200px;
 }
@@ -45,24 +47,18 @@ li {
 }
 .icon4{
     float:right;
+    margin-top:-10px;
+    margin-left:60px;
     height:200px;
     width:200px;
 }
 .icon5{
     float:right;
+    margin-top:-10px;
+    margin-left:60px;
     height:200px;
     width:200px;
 }
-
-
-
-
-
-
-/* .projects ul li{
-    display:block;
-
-} */
 .projects ul li a{
    color:purple;
    cursor: hand;
