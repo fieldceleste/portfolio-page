@@ -12,7 +12,7 @@ in web development_
 
 ## Setup/Installation Requirements
 
-* _Clone this repository https://github.com/fieldceleste/portfolio-page.git_
+* _Clone this repository https://fieldceleste.github.io/portfolio-page/_
 * _On GitHub, navigate to the HTTP server and click on clone or download_
 * _Open the terminal_
 * _Change the current working directory to the location where you want the cloned directory to be made_
@@ -20,17 +20,17 @@ in web development_
 * _Then press enter_
 
 GH-Pages Links
-* _Pet Page-Oliver :https://github.com/fieldceleste/olivers-page.git_
-* _Float Project :https://github.com/fieldceleste/float-page.git_
-* _Favorite Hikes :https://github.com/fieldceleste/favorite-hikes.git_
-* _Cupcake Shop: https://github.com/fieldceleste/cupcake-shop2.git_
-* _Animal Shelter :https://github.com/fieldceleste/animal-shelter2.git_
+* _Pet Page-Oliver: https://fieldceleste.github.io/olivers-page/_
+* _Float Project: https://fieldceleste.github.io/float-page/_
+* _Favorite Hikes: https://fieldceleste.github.io/favorite-hikes/_
+* _Cupcake Shop: https://fieldceleste.github.io/cupcake-shop2/_
+* _Animal Shelter: https://fieldceleste.github.io/animal-shelter2/_
 
 
 ## Support and contact details
 
 _For support from the author of the site contact fieldceleste@gmail.com_
-_To view git pages visit: https://github.com/fieldceleste/portfolio-page.git_
+_To view git pages visit: https://fieldceleste.github.io/portfolio-page/_
 ## Technologies Used
 
 _HTML_

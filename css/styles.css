@@ -69,3 +69,6 @@ li {
     background-color: rgb(247, 220, 220);
     color: white;
 }
+.border {
+    border: 1px peru solid;
+}
